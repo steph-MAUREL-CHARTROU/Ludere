@@ -1,0 +1,16 @@
+.logo a {
+    font-family: 'Shojumaru' ;
+    font-size: 130px;
+    color : #f6be15
+
+}
+
+.photo{
+    float: right;
+}
+
+footer{
+    background-color: #5ce1e6;
+    margin-top: 100px;
+    padding-top: 10px;
+}
